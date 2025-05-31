@@ -1,18 +1,33 @@
-# 💫 About Me:
-Salut ! 👾<br><br>🧑‍💻 Développeur Full Stack JavaScript - React & Node<br>Je suis un développeur full stack animé par le plaisir de créer des applications web qui ont du sens. J'adore voir une idée prendre vie, ligne après ligne, et relever les défis techniques pour concevoir des solutions élégantes et conviviales. Mon approche combine la rigueur du code avec une forte volonté de construire des expériences utilisateurs fluides.<br><br>🔭 Actuellement<br>Je me consacre à des projets web full stack, en exploitant la puissance de React pour le frontend et la polyvalence de Node (Express, PostgreSQL) pour le backend. Je mets l'accent sur l'élaboration d'APIs REST sécurisées et l'optimisation des déploiements CI/CD.<br><br>🤝 Je suis partant pour collaborer sur<br>Des projets de développement web innovants. Je cherche à rejoindre des équipes dynamiques où je peux contribuer concrètement et apprendre des autres, toujours dans une optique de collaboration efficace.<br><br>🌱 En ce moment<br>J'approfondis constamment mes compétences techniques, notamment sur les technologies émergentes pour améliorer les performances et l'expérience utilisateur.<br><br>💬 N'hésite pas à me poser des questions sur<br>Le développement full stack (React, Node, Express, PostgreSQL)<br>Les APIs REST et la gestion de bases de données<br>Les méthodologies Agiles et le code propre<br><br>💡 Un truc sympa à savoir sur moi<br>Ce que j'apprécie le plus ? Voir une idée abstraite prendre vie dans une application concrète et utilisable, en mettant toujours un point d'honneur à ce que le code soit impeccable et bien organisé.
+# 💫 About Me
+HEY ! 👾
 
+🧑‍💻 **Développeur Full Stack JavaScript - React & Node**<br>Je suis un développeur full stack animé par le plaisir de créer des applications web qui ont du sens. J'adore voir une idée prendre vie, ligne après ligne, et relever les défis techniques pour concevoir des solutions élégantes et conviviales. Mon approche combine la rigueur du code avec une forte volonté de construire des expériences utilisateurs fluides.
 
-## 🌐 Socials:
+🔭 **Actuellement**<br>Je me consacre à des projets web full stack, en exploitant la puissance de React pour le frontend et la polyvalence de Node (Express, PostgreSQL) pour le backend. Je mets l'accent sur l'élaboration d'APIs REST sécurisées et l'optimisation des déploiements CI/CD.
+
+🤝 **Je suis partant pour collaborer sur**<br>Des projets de développement web innovants. Je cherche à rejoindre des équipes dynamiques où je peux contribuer concrètement et apprendre des autres, toujours dans une optique de collaboration efficace.
+
+🌱 **En ce moment**<br>J'approfondis constamment mes compétences techniques, notamment sur les technologies émergentes pour améliorer les performances et l'expérience utilisateur.
+
+💬 **N'hésite pas à me poser des questions sur**
+- Le développement full stack (React, Node, Express, PostgreSQL)
+- Les APIs REST et la gestion de bases de données
+- Les méthodologies Agiles et le code propre
+
+💡 **Un truc sympa à savoir sur moi**<br>Ce que j'apprécie le plus ? Voir une idée abstraite prendre vie dans une application concrète et utilisable, en mettant toujours un point d'honneur à ce que le code soit impeccable et bien organisé.
+
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/léo-fauquembergue-1d3h7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leo.fau1708@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat&logo=bulma&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Leo-Fauquembergue&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Leo-Fauquembergue&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Fauquembergue&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
