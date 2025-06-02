@@ -1,20 +1,25 @@
 # 💫 About Me
 HEY ! 👾
 
-🧑‍💻 **Développeur Full Stack JavaScript - React & Node**<br>Je suis un développeur full stack animé par le plaisir de créer des applications web qui ont du sens. J'adore voir une idée prendre vie, ligne après ligne, et relever les défis techniques pour concevoir des solutions élégantes et conviviales. Mon approche combine la rigueur du code avec une forte volonté de construire des expériences utilisateurs fluides.
+🧑‍💻 **Développeur Full Stack JavaScript - React & Node**<br>Je suis un développeur full stack animé par le plaisir de créer des applications web qui ont du sens. J'adore voir une idée prendre vie, ligne après ligne, et relever les défis techniques pour concevoir des solutions élégantes et conviviales. Mon approche allie rigueur du code et une forte volonté de construire des expériences utilisateur fluides.
 
-🔭 **Actuellement**<br>Je me consacre à des projets web full stack, en exploitant la puissance de React pour le frontend et la polyvalence de Node (Express, PostgreSQL) pour le backend. Je mets l'accent sur l'élaboration d'APIs REST sécurisées et l'optimisation des déploiements CI/CD.
+🔭 **Actuellement**<br>Je me consacre à des projets web full stack, en exploitant la puissance de React pour le frontend et la polyvalence de Node (Express, PostgreSQL) pour le backend. Je mets également l'accent sur l'élaboration d'APIs REST sécurisées et l'optimisation des déploiements CI/CD.
 
-🤝 **Je suis partant pour collaborer sur**<br>Des projets de développement web innovants. Je cherche à rejoindre des équipes dynamiques où je peux contribuer concrètement et apprendre des autres, toujours dans une optique de collaboration efficace.
+🤝 **Partant pour collaborer**<br>Je cherche à rejoindre une équipe dynamique où je pourrai contribuer activement à des projets innovants et m'enrichir des compétences des autres, dans un esprit de co-construction.
 
 🌱 **En ce moment**<br>J'approfondis constamment mes compétences techniques, notamment sur les technologies émergentes pour améliorer les performances et l'expérience utilisateur.
 
-💬 **N'hésite pas à me poser des questions sur**
+💬 **Posez-moi vos questions sur :**
 - Le développement full stack (React, Node, Express, PostgreSQL)
 - Les APIs REST et la gestion de bases de données
-- Les méthodologies Agiles et le code propre
+- Les méthodologies Agiles et l'art du code propre
+- Ou toute autre question à laquelle je répondrai avec plaisir !
 
-💡 **Un truc sympa à savoir sur moi**<br>Ce que j'apprécie le plus ? Voir une idée abstraite prendre vie dans une application concrète et utilisable, en mettant toujours un point d'honneur à ce que le code soit impeccable et bien organisé.
+💡 **Un truc sympa à savoir sur moi**<br>Ce que j'apprécie le plus, c'est voir une idée abstraite prendre vie dans une application concrète et utilisable, en mettant toujours un point d'honneur à ce que le code soit impeccable et bien organisé.
+
+<div align="center">
+  <i>...et oui, je maîtrise aussi l'art du `div` centré. 😎</i>
+</div>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/léo-fauquembergue-1d3h7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leo.fau1708@gmail.com) 
