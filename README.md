@@ -15,7 +15,7 @@ HEY ! 👾
 - Les méthodologies Agiles et l'art du code propre
 - Ou toute autre question à laquelle je répondrai avec plaisir !
 
-💡 **Un truc sympa à savoir sur moi**<br>Ce que j'apprécie le plus, c'est voir une idée abstraite prendre vie dans une application concrète et utilisable, en mettant toujours un point d'honneur à ce que le code soit impeccable et bien organisé.
+💡 **Un truc sympa à savoir sur moi**<br>Ce que j'apprécie le plus, c'est voir une idée abstraite devenir une application concrète et utilisable, en mettant toujours un point d'honneur à ce que le code soit impeccable et bien organisé.
 
 <div align="center">
   <i>...et oui, je maîtrise aussi l'art du `div` centré. 😎</i>
