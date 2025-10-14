@@ -19,7 +19,7 @@ Dans le cadre de mon projet de fin d'études, j'ai agi en tant que **leader tech
 J'ai conçu l'architecture de la base de données relationnelle (MLD) avec PostgreSQL et implémenté les modèles et associations via l'ORM Sequelize.
 - **🛡️ Développement Backend (Node/Express) :**
 J'ai construit une API RESTful modulaire et sécurisée. Le cœur de mon travail a été l'implémentation d'un système d'authentification robuste avec `express-session`, le hachage des mots de passe via Argon2, un contrôle d'accès basé sur les rôles (RBAC) et la validation rigoureuse des données entrantes avec Zod.
-- **🎨 Développement Frontend (React/TypeScript) :**
+- **🎨 Développement Frontend (TypeScript/React) :**
 J'ai participé activement à la construction de l'interface, notamment en structurant la gestion d'état globale avec React Context API (`AuthContext`, `CartContext`). J'ai aussi développé plusieurs fonctionnalités clés, dont le panel d'administration complet.
 - **🚀 Qualité & DevOps :**
 En tant que garant de la qualité, j'ai instauré et mené les revues de code systématiques (Pull Requests) pour assurer la maintenabilité du projet. J'ai conteneurisé la BDD avec Docker Compose et orchestré le déploiement de l'application sur une architecture découplée performante.
@@ -28,8 +28,8 @@ En tant que garant de la qualité, j'ai instauré et mené les revues de code sy
 
 ### 💻 Stack Technique
 #### Langages & Fondamentaux
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -69,7 +69,7 @@ En tant que garant de la qualité, j'ai instauré et mené les revues de code sy
 ### 💬 Parlons-en !
 Je suis toujours ouvert à la discussion. N'hésitez pas à me contacter pour parler de :
 - Conception d'API RESTful et modélisation de bases de données.
-- Développement d'applications robustes avec React & TypeScript.
+- Développement d'applications robustes avec TypeScript & React.
 - Opportunités d'alternance en Conception & Développement d'Applications.
 
 <div align="center">
