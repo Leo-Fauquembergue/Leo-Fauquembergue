@@ -68,9 +68,9 @@ En tant que garant de la qualité, j'ai instauré et mené les revues de code sy
 
 ### 💬 Parlons-en !
 Je suis toujours ouvert à la discussion. N'hésitez pas à me contacter pour parler de :
-- Conception d'API RESTful et modélisation de bases de données.
+- Conception d'API REST/GraphQL et modélisation de bases de données.
 - Développement d'applications robustes avec TypeScript & React.
-- Opportunités d'alternance en Conception & Développement d'Applications.
+- Opportunités de stage en Conception & Développement d'Applications.
 
 <div align="center">
   <i>...et oui, je maîtrise aussi l'art du `div` centré. 😎</i>
