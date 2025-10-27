@@ -12,7 +12,7 @@ Suite à ma formation intensive chez O'clock en Conception et Développement d'A
 ---
 
 ### 📌 Projet Phare : GreenRoots 🌳
-**[➡️ Voir le README détaillé du projet](https://github.com/O-clock-Tiramisu/projet-green-roots)**
+**[➡️ Voir le README détaillé du projet](https://github.com/Leo-Fauquembergue/GreenRoots)**
 
 Dans le cadre de mon projet de fin d'études, j'ai agi en tant que **leader technique backend et contributeur full stack**. Mes responsabilités couvraient l'ensemble du cycle de vie du projet :
 - **🏗️ Architecture & Conception de Données :**
