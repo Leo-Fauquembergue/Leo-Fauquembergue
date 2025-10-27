@@ -7,7 +7,7 @@ Je suis un développeur full stack passionné par la **conception d'architecture
 ---
 
 ### 🎯 Mon Objectif Actuel : Stage de Fin de Formation (CDA)
-Suite à ma formation intensive chez O'clock en Conception et Développement d'Applications (Titre Professionnel en cours d'obtention), je recherche activement une **stage de fin de formation d'une durée minimale de deux mois**, à partir de **début février 2026**.
+Suite à ma formation intensive chez O'clock en Conception et Développement d'Applications (Titre Professionnel en cours d'obtention), je recherche activement un **stage de fin de formation d'une durée de 2 à 6 mois**, à partir de **début février 2026**.
 
 ---
 
