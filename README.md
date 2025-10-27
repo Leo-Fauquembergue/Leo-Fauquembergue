@@ -1,6 +1,6 @@
 # Léo FAUQUEMBERGUE - Développeur d'Applications Full Stack ✨
 
-HEY ! 👾
+**HEY !** 👾
 
 Je suis un développeur full stack passionné par la **conception d'architectures robustes** et la création d'applications web qui ont du sens. Fort d'une reconversion après une expérience en enseignement, j'allie rigueur, analyse et esprit d'équipe pour transformer une idée abstraite en une solution technique performante et bien organisée.
 
