@@ -6,8 +6,8 @@ Je suis un développeur full stack passionné par la **conception d'architecture
 
 ---
 
-### 🎯 Mon Objectif Actuel : Alternance en Conception & Développement
-Suite à ma formation intensive chez O'clock (Titre Professionnel en cours d'obtention), je recherche activement une **alternance** pour un **Bachelor Concepteur Développeur d'Applications (rentrée sept. 2025)**.
+### 🎯 Mon Objectif Actuel : Stage de Fin de Formation (CDA)
+Suite à ma formation intensive chez O'clock en Conception et Développement d'Applications (Titre Professionnel en cours d'obtention), je recherche activement une **stage de fin de formation d'une durée minimale de deux mois**, à partir de **début février 2026**.
 
 ---
 
