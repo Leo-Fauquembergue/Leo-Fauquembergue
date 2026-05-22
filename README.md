@@ -112,7 +112,6 @@ Je suis toujours ouvert à la discussion. N'hésitez pas à me contacter pour pa
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Fauquembergue&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-Fauquembergue&theme=vision-friendly-dark&hide_border=true" alt="Statistiques de commits" />
 </p>
 
@@ -120,4 +119,6 @@ Je suis toujours ouvert à la discussion. N'hésitez pas à me contacter pour pa
 
 ### ✍️ Citation de Développeur Aléatoire
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Citation de développeur" />
+</p>
