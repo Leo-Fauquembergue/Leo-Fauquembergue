@@ -2,39 +2,61 @@
 
 **HEY !** 👾
 
-Je suis un développeur full stack passionné par la **conception d'architectures robustes** et la création d'applications web qui ont du sens. Reconverti après un parcours en enseignement, j'allie rigueur, analyse et esprit d'équipe pour transformer une idée abstraite en solution technique performante, sécurisée et bien organisée.
+Issu d'un cursus STAPS et d'un Master MEEF EPS, j'ai multiplié les expériences de terrain en encadrement et en pédagogie — dont un stage long et formateur — avant de me reconvertir dans le développement. J'en garde la rigueur, le goût du travail en équipe et l'habitude de **décomposer le complexe en étapes claires** : une logique qui sert autant à transmettre qu'à concevoir une architecture.
+
+Aujourd'hui, je conçois des applications web pensées pour être **robustes, sécurisées et maintenables**.
 
 ---
 
 ### 🎯 Ce que je recherche : Alternance Bac+4/5 ou CDI
 
-Après avoir obtenu le titre DWWM (Niveau 5) et le titre CDA (Niveau 6) chez O'clock, et suite à un stage de développement mobile chez MIS Group, je suis actuellement à la recherche d'une **alternance en formation Bac+4/5** ou d'un **poste en CDI** comme Développeur Full Stack.
+Titulaire des titres **DWWM** (Niveau 5) et **CDA** (Niveau 6) obtenus chez O'clock, et après un stage en développement mobile chez MIS Group, je recherche actuellement une **alternance en formation Bac+4/5** ou un **poste de Développeur Full Stack en CDI**.
 
 ---
 
 ### 📌 Projets Phares
 
-#### PetFosterConnect 🐾 — CDA (Niveau 6)
+#### 🐾 PetFosterConnect — Mise en relation refuges / familles d'accueil · CDA (Niveau 6)
 
-**[➡️ Voir le repo GitHub](https://github.com/Leo-Fauquembergue/PetFosterConnect)**
+💻 **[Code source](https://github.com/Leo-Fauquembergue/PetFosterConnect)**
+**Stack :** TypeScript · React · NestJS · PostgreSQL · Prisma
 
-Application de mise en relation entre refuges et familles d'accueil, réalisée en équipe Agile (Product Owner & dev full stack), puis perfectionnée en totale autonomie.
+![Aperçu de PetFosterConnect](https://github.com/user-attachments/assets/e30e3125-9aae-47e0-ba87-c75ae4413e55)
+
+> Réalisé en équipe Agile (rôle Product Owner + dev full stack), puis perfectionné en totale autonomie.
+> Authentification JWT double token, RBAC avec héritage des rôles, conformité RGPD et CI/CD complet de bout en bout.
+
+<details>
+<summary>🔧 <strong>Détails techniques</strong></summary>
+<br>
 
 - **🏗️ Architecture & Données :** BDD PostgreSQL modélisée via Prisma (Schema-First, migrations). RBAC avec héritage des rôles, protection IDOR via guards personnalisés (`@CheckOwner`) et Soft Delete pour la conformité RGPD (droit à l'oubli).
-- **🛡️ Backend (NestJS) :** API RESTful modulaire documentée Swagger. Authentification JWT Double Token (Access/Refresh), hachage Argon2, middleware CSRF personnalisé, rate limiting et validation Zod bout-en-bout. Transactions ACID Serializable (Prisma `$transaction`) pour prévenir les race conditions. Notifications asynchrones Nodemailer + Handlebars (pattern Fire-and-Forget).
-- **🎨 Frontend (TypeScript / React) :** SPA Mobile-First avec Vite. Formulaires React Hook Form + Zod, hook `useFetch` avec `AbortController` (annulation réseau, prévention memory leaks). Algorithme de matching intelligent calculant la compatibilité adoptant/animal en temps réel. Export PDF des fiches avec QR Code. Accessibilité (WCAG/A11Y) native.
+- **🛡️ Backend (NestJS) :** API RESTful modulaire documentée Swagger. Authentification JWT Double Token (Access/Refresh), hachage Argon2, middleware CSRF personnalisé, rate limiting et validation Zod bout-en-bout. Transactions ACID Serializable (`$transaction`) pour prévenir les race conditions. Notifications asynchrones Nodemailer + Handlebars (pattern Fire-and-Forget).
+- **🎨 Frontend (TypeScript / React) :** SPA Mobile-First avec Vite. Formulaires React Hook Form + Zod, hook `useFetch` avec `AbortController` (annulation réseau, prévention des memory leaks). Algorithme de matching calculant la compatibilité adoptant/animal en temps réel. Export PDF des fiches avec QR Code. Accessibilité (WCAG / A11Y) native.
 - **🚀 Qualité & DevOps :** Monorepo npm workspaces avec typage End-to-End (`@projet/shared-types`). Biome pour la qualité de code. Pipeline CI/CD GitHub Actions (Jest, Vitest, PostgreSQL éphémère, branch protection rules). Docker (conteneur CI + dev local). Déploiement continu sur architecture découplée : backend sur Render, frontend sur Vercel.
 
-#### GreenRoots 🌳 — DWWM (Niveau 5)
+</details>
 
-**[➡️ Voir le repo GitHub](https://github.com/Leo-Fauquembergue/GreenRoots)**
+#### 🌳 GreenRoots — Plateforme e-commerce de reforestation · DWWM (Niveau 5)
 
-Plateforme e-commerce de reforestation réalisée en équipe Agile (lead back-end & dev full stack).
+💻 **[Code source](https://github.com/Leo-Fauquembergue/GreenRoots)**
+**Stack :** TypeScript · React · Node.js · Express · PostgreSQL · Sequelize
+
+![Aperçu de GreenRoots](https://github.com/user-attachments/assets/9fcf6772-f9ef-4452-8d3e-476ab54de9e9)
+
+> Réalisé en équipe Agile (rôle lead back-end + dev full stack).
+> Architecture MVC, sécurité guidée par l'OWASP Top 10, tunnel d'achat complet et panel d'administration.
+
+<details>
+<summary>🔧 <strong>Détails techniques</strong></summary>
+<br>
 
 - **🏗️ Architecture & Données :** BDD PostgreSQL modélisée via Sequelize (MLD, migrations, seeding automatisé). RBAC via middlewares dédiés (`isAuthenticated`, `isAdmin`) et conformité RGPD intégrée (pages légales et politique de confidentialité via les outils CNIL).
 - **🛡️ Backend (Node / Express) :** API RESTful modulaire en architecture MVC. Authentification par sessions persistantes en BDD (`express-session`), hachage Argon2, validation Zod et protection XSS (`express-xss-sanitizer`). Sécurité guidée par l'OWASP Top 10 : CORS, scopes Sequelize pour l'exposition contrôlée des données sensibles. Logique métier de panier persistant (statut Order) avec tunnel d'achat complet.
 - **🎨 Frontend (TypeScript / React) :** SPA Mobile-First avec Vite. Gestion d'état globale via React Context API (`AuthContext`, `CartContext`). Design system Tailwind CSS + SCSS. Panel d'administration complet (catalogue, commandes, suivi des arbres plantés).
 - **🚀 Qualité & Déploiement :** Monorepo PNPM avec qualité de code unifiée via Biome. Revues de code systématiques (Pull Requests). BDD conteneurisée avec Docker Compose en développement. Déploiement continu sur architecture découplée : backend sur Render, frontend sur Vercel.
+
+</details>
 
 ---
 
@@ -53,12 +75,12 @@ Plateforme e-commerce de reforestation réalisée en équipe Agile (lead back-en
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Zod](https://img.shields.io/badge/zod-3068b7?style=for-the-badge&logo=zod&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%231B5E20?style=for-the-badge&logo=swagger&logoColor=white)
 
 #### Frontend & Mobile
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -97,7 +119,7 @@ Je suis toujours ouvert à la discussion. N'hésitez pas à me contacter pour pa
 - Opportunités d'alternance Bac+4/5 ou de poste en CDI.
 
 <div align="center">
-  <i>...et oui, je maîtrise aussi l'art du `div` centré. 😎</i>
+  <i>...et oui, je maîtrise aussi l'art du <code>div</code> centré. 😎</i>
 </div>
 
 ---
