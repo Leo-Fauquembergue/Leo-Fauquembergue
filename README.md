@@ -1,4 +1,4 @@
-# Léo FAUQUEMBERGUE - Développeur d'Applications Full Stack ✨
+# Léo FAUQUEMBERGUE - Développeur Full Stack ✨
 
 **HEY !** 👾
 
