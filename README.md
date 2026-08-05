@@ -8,9 +8,9 @@ Aujourd'hui, je conçois des applications web pensées pour être **robustes, s�
 
 ---
 
-### 🎯 Ce que je recherche : Alternance Bac+4/5 ou CDI
+### 🎯 Ce que je recherche : Alternance Bac+5 ou CDI
 
-Titulaire des titres **DWWM** (Niveau 5) et **CDA** (Niveau 6) obtenus chez O'clock, et après un stage en développement mobile chez MIS Group, je recherche actuellement une **alternance en formation Bac+4/5** ou un **poste de Développeur Full Stack en CDI**.
+Titulaire des titres **DWWM** (Niveau 5) et **CDA** (Niveau 6) obtenus chez O'clock, et après un stage en développement mobile chez MIS Group, je recherche actuellement une **alternance en formation Bac+5** ou un **poste de Développeur Full Stack en CDI**.
 
 ---
 
@@ -116,7 +116,7 @@ Titulaire des titres **DWWM** (Niveau 5) et **CDA** (Niveau 6) obtenus chez O'cl
 Je suis toujours ouvert à la discussion. N'hésitez pas à me contacter pour parler de :
 - Conception d'API REST et modélisation de bases de données.
 - Développement d'applications web ou mobiles avec TypeScript, React et Node.
-- Opportunités d'alternance Bac+4/5 ou de poste en CDI.
+- Opportunités d'alternance Bac+5 ou de poste en CDI.
 
 <div align="center">
   <i>...et oui, je maîtrise aussi l'art du <code>div</code> centré. 😎</i>
