@@ -8,7 +8,7 @@ Aujourd'hui, je conçois des applications web pensées pour être **robustes, s�
 
 ---
 
-### 🎯 Ce que je recherche : Alternance 24 mois (Dev Full Stack & Intégration IA)
+### 🎯 Ce que je recherche : Alternance Dev Full Stack & Intégration IA
 
 Titulaire des titres **DWWM (Bac+2)** et **CDA (Bac+3)**, et fort d'une expérience en développement mobile chez MIS Group, je suis admis en **Mastère Expert en Intégration d'IA & Développement** chez Ynov pour la rentrée 2026.
 
