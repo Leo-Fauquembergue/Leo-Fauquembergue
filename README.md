@@ -4,19 +4,23 @@
 
 Issu d'un cursus STAPS et d'un Master MEEF EPS, j'ai multiplié les expériences de terrain en encadrement et en pédagogie — dont un stage long et formateur — avant de me reconvertir dans le développement. J'en garde la rigueur, le goût du travail en équipe et l'habitude de **décomposer le complexe en étapes claires** : une logique qui sert autant à transmettre qu'à concevoir une architecture.
 
-Aujourd'hui, je conçois des applications web pensées pour être **robustes, sécurisées et maintenables**.
+Aujourd'hui, je conçois des applications web pensées pour être **robustes, sécurisées et maintenables**, et je me tourne avec passion vers l'intégration de solutions d'**Intelligence Artificielle**.
 
 ---
 
-### 🎯 Ce que je recherche : Alternance Bac+5 ou CDI
+### 🎯 Ce que je recherche : Alternance 24 mois (Dev Full Stack & IA)
 
-Titulaire des titres **DWWM** (Niveau 5) et **CDA** (Niveau 6) obtenus chez O'clock, et après un stage en développement mobile chez MIS Group, je recherche actuellement une **alternance en formation Bac+5** ou un **poste de Développeur Full Stack en CDI**.
+Titulaire des titres **DWWM (Bac+2)** et **CDA (Bac+3)**, et fort d'une expérience en développement mobile chez MIS Group, je suis admis en **Mastère Expert en Intégration d'IA & Développement** chez Ynov pour la rentrée 2026.
+
+Je recherche activement une **alternance de 24 mois (dès octobre 2026)**. 💡 **Atout logistique :** Je dispose d'un rythme très avantageux pour l'entreprise de **4 jours consécutifs en entreprise / 1 jour à l'école** par semaine.
+
+Mon objectif : consolider vos applications web tout en vous accompagnant dans l'intégration de nouvelles solutions (RAG, agents autonomes, LLMOps).
 
 ---
 
 ### 📌 Projets Phares
 
-#### 🐾 PetFosterConnect — Mise en relation refuges / familles d'accueil · CDA (Niveau 6)
+#### 🐾 PetFosterConnect — Plateforme Solidaire de Protection Animale · CDA (Niveau 6)
 
 💻 **[Code source](https://github.com/Leo-Fauquembergue/PetFosterConnect)**
 **Stack :** TypeScript · React · NestJS · PostgreSQL · Prisma
@@ -37,7 +41,7 @@ Titulaire des titres **DWWM** (Niveau 5) et **CDA** (Niveau 6) obtenus chez O'cl
 
 </details>
 
-#### 🌳 GreenRoots — Plateforme e-commerce de reforestation · DWWM (Niveau 5)
+#### 🌳 GreenRoots — Plateforme de Reforestation Personnalisée · DWWM (Niveau 5)
 
 💻 **[Code source](https://github.com/Leo-Fauquembergue/GreenRoots)**
 **Stack :** TypeScript · React · Node.js · Express · PostgreSQL · Sequelize
@@ -116,7 +120,7 @@ Titulaire des titres **DWWM** (Niveau 5) et **CDA** (Niveau 6) obtenus chez O'cl
 Je suis toujours ouvert à la discussion. N'hésitez pas à me contacter pour parler de :
 - Conception d'API REST et modélisation de bases de données.
 - Développement d'applications web ou mobiles avec TypeScript, React et Node.
-- Opportunités d'alternance Bac+5 ou de poste en CDI.
+- Opportunités d'alternance Bac+5 et intégration d'Intelligence Artificielle.
 
 <div align="center">
   <i>...et oui, je maîtrise aussi l'art du <code>div</code> centré. 😎</i>
