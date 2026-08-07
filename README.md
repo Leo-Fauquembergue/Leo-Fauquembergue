@@ -12,7 +12,7 @@ Aujourd'hui, je conçois des applications web pensées pour être **robustes, s�
 
 Titulaire des titres **DWWM (Bac+2)** et **CDA (Bac+3)**, et fort d'une expérience en développement mobile chez MIS Group, je suis admis en **Mastère Expert en Intégration d'IA & Développement** chez Ynov pour la rentrée 2026.
 
-Je recherche activement une **alternance de 24 mois (dès octobre 2026)**. 💡 **Atout logistique :** Je dispose d'un rythme très avantageux pour l'entreprise de **4 jours consécutifs en entreprise / 1 jour à l'école** par semaine.
+Je recherche activement une **alternance de 24 mois (dès octobre 2026)**, facilitée par un rythme très avantageux de **4 jours consécutifs en entreprise pour 1 jour à l'école** par semaine.
 
 Mon objectif : consolider vos applications web tout en vous accompagnant dans l'intégration de nouvelles solutions (RAG, agents autonomes, LLMOps).
 
