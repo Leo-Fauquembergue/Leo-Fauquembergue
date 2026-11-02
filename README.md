@@ -4,17 +4,18 @@
 
 Issu d'un cursus STAPS et d'un Master MEEF EPS, j'ai multiplié les expériences de terrain en encadrement et en pédagogie — dont un stage long et formateur — avant de me reconvertir dans le développement. J'en garde la rigueur, le goût du travail en équipe et l'habitude de **décomposer le complexe en étapes claires** : une logique qui sert autant à transmettre qu'à concevoir une architecture.
 
-Aujourd'hui, je conçois des applications web pensées pour être **robustes, sécurisées et maintenables**, et je me tourne avec passion vers l'intégration de solutions d'**Intelligence Artificielle**.
+Aujourd'hui, je conçois des applications web et mobiles pensées pour être **robustes, sécurisées et maintenables**, avec une attention particulière portée à l'architecture, la qualité logicielle et l'expérience utilisateur.
 
 ---
 
-### 🎯 Ce que je recherche : Alternance Dev Full Stack & Intégration IA
+### 🎯 Ce que je recherche : Développeur Full Stack TypeScript (CDI)
 
-Titulaire des titres **DWWM (Bac+2)** et **CDA (Bac+3)**, et fort d'une expérience en développement mobile chez MIS Group, je suis admis en **Mastère Expert en Intégration d'IA & Développement** chez Ynov pour la rentrée 2026.
+Titulaire des titres professionnels **DWWM (Bac+2)** et **CDA (Bac+3)**, et fort d'une expérience concrète en développement mobile chez MIS Group, je recherche activement un **CDI** (Lille, Hybride ou Full Remote).
 
-Je recherche activement une **alternance de 24 mois (dès octobre 2026)**, facilitée par un rythme très avantageux de **4 jours consécutifs en entreprise pour 1 jour à l'école** par semaine.
-
-Mon objectif : consolider vos applications web tout en vous accompagnant dans l'intégration de nouvelles solutions (RAG, agents autonomes, LLMOps).
+**Disponible immédiatement**, mon objectif est de m'intégrer durablement au sein d'une équipe technique pour :
+- Développer des interfaces réactives et intuitives, pensées pour offrir une expérience utilisateur fluide.
+- Contribuer à l'architecture, la scalabilité et la sécurité des backends et APIs.
+- Poursuivre une veille technique active sur les meilleures pratiques modernes de développement.
 
 ---
 
@@ -120,7 +121,7 @@ Mon objectif : consolider vos applications web tout en vous accompagnant dans l'
 Je suis toujours ouvert à la discussion. N'hésitez pas à me contacter pour parler de :
 - Conception d'API REST et modélisation de bases de données.
 - Développement d'applications web ou mobiles avec TypeScript, React et Node.
-- Opportunités d'alternance Bac+5.
+- Opportunités d'emploi en CDI (Full Stack / Frontend / Backend).
 
 <div align="center">
   <i>...et oui, je maîtrise aussi l'art du <code>div</code> centré. 😎</i>
